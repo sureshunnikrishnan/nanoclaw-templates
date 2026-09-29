@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "personal-finance",
+  "version": "1.0.0",
+  "description": "Personal finance agent: daily mutual-fund NAV refresh, gain/loss statements, and holdings tracking",
+  "extensions": {
+    "ai.nanoco.nanoclaw": {
+      "agentName": "Personal Finance"
+    }
+  }
+}

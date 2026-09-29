@@ -17,6 +17,14 @@
         "description": "Architecture planning and review through a small expert panel guided by problem-matched books, plus a standing Tech lead with verified current web research."
       }
     ],
+    "finance": [
+      {
+        "ref": "finance/personal-finance",
+        "name": "personal-finance",
+        "version": "1.0.0",
+        "description": "Personal finance agent: daily mutual-fund NAV refresh, gain/loss statements, and holdings tracking"
+      }
+    ],
     "lifestyle": [
       {
         "ref": "lifestyle/family-assistant",
